@@ -1,4 +1,4 @@
-#Lego Robot Programming
+# Lego Robot Programming
 
 This is the code my partner and I wrote to program an Lego Arduino robot.
 The robot follows a dark line on the floor until it hits a wall.
